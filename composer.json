@@ -1,0 +1,19 @@
+{
+    "name": "so/test",
+    "description": "my first package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "So\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "so",
+            "email": "diborgiaso@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
