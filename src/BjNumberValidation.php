@@ -6,7 +6,7 @@ final class BjNumberValidation
     public function verifyNumber(int $number) {
         $response = false;
         
-        if (strlen($number) !== 8) {
+        if (strlen($number) != 8) {
 
             $response = false;
 
