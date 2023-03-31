@@ -1,16 +1,16 @@
 {
-    "name": "so/test",
-    "description": "my first package",
+    "name": "odl/bj-number-validation",
+    "description": "Benin phone number validation",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "So\\Test\\": "src/"
+            "Odl\\BjNumberValidation\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "so",
+            "name": "odl",
             "email": "diborgiaso@gmail.com"
         }
     ],
